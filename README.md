@@ -1,4 +1,4 @@
-##Third Place Winner at LightHouse Hackathon: [TimeDiscard](https://devpost.com/software/timediscard/edit)
+## **Third Place Winner at LightHouse Hackathon: [TimeDiscard](https://devpost.com/software/timediscard/edit)
 
 ## Inspiration
 At some point in their lives, everybody procrastinates. Chronic procrastination reduces efficiency and has a negative impact on our mental health by causing anxiety and stress. As deadlines approach, it's common to feel frustrated and guilty for not getting started on a task sooner. We chose to create TimeDiscard because we were students ourselves and wanted to solve this issue.
